@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9961EA86-D5ED-4208-A9C9-8FFDE8964600}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="nBandit/Program.cs">
+    <Files>
+      <File FileName="nBandit/Program.cs" Line="77" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.nBandit PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/user/Projects/nBandit/nBandit/obj/x86/Debug/nBandit.csproj.CoreCompileInputs.cache
+/Users/user/Projects/nBandit/nBandit/bin/Debug/nBandit.exe
+/Users/user/Projects/nBandit/nBandit/bin/Debug/nBandit.pdb
+/Users/user/Projects/nBandit/nBandit/obj/x86/Debug/nBandit.exe
+/Users/user/Projects/nBandit/nBandit/obj/x86/Debug/nBandit.pdb
