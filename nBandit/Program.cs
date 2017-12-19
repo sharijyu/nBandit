@@ -7,8 +7,6 @@ namespace nBandit
 	class Program
 	{
         //Box-Muller法により、ガウシアンに従うランダム値を返す
-        //ランダムインスタンスは違うシードで生成するようにし、同じシードで生成したランダムインスタンスは...Nextメソッド呼び出しごとに
-        //違う値を返すようになる
         public class GaussianDist
         {
             private double mu;
